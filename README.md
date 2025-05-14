@@ -92,9 +92,7 @@ For better visibility and ranking on search engines like Google and Bing, the re
 - **auto raid blox fruits script**
 - **auto ttk blox fruits script**
 - **blox fruits script bounty hunt**
-
-These keywords are embedded naturally throughout the **README.md** to maximize SEO optimization.
-
+- 
 ---
 
 ## 🛠️ How to Use the Scripts
@@ -107,4 +105,3 @@ These keywords are embedded naturally throughout the **README.md** to maximize S
 
 🌟 **Enjoy the Scripts?**  
 If you find these scripts helpful, don’t forget to give this repository a ⭐ to stay updated with new releases and features!
-
